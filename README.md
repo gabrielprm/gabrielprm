@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋🏽 Olá
+
+- 📚 Estudante de **Ciência da Computação** na Universidade Católica de Brasília
+- 👨🏽‍💻 iOS Developer na **Apple Developer Academy | UCB**
 
 <!--
 **Joh-camacho/Joh-camacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
