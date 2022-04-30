@@ -1,11 +1,11 @@
 ### Johnny Camacho 👨🏽‍💻
 
-###
+---
 
 <div>
   <a href="https://github.com/Joh-camacho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joh-camacho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joh-Camacho&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joh-Camacho&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 ---
@@ -24,9 +24,9 @@
 ### Linguagens
   
 <div style="display: inline_block"><br>
-  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
-  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
 
 ---
