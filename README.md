@@ -43,11 +43,13 @@ Tenho ótimo conhecimento sobre versionamento como git e conhecimento sobre APIs
 ---
   
 ### Contatos
-
+<a href = "mailto:gabrielprm@gmail.com">
+  <img height="40em" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" target="_blank">
+</a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gabrielprm/">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
-<a href = "mailto:gabrielprm@gmail.com">
-  <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=blue" target="_blank">
-</a>
+  
+
 
