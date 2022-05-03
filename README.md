@@ -10,7 +10,7 @@
   
 ### Sobre
 
-- 👋🏽 Oi, me chamo Gabriel
+- 👋🏽 Oi, me chamo Gabriel.
 
 - 🎓 Graduando em Ciência da Computação (Dez. 2023)
 
