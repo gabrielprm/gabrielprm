@@ -14,19 +14,7 @@
 
 - 🎓 Graduando em Ciência da Computação (Dez. 2023)
 
-- 👨🏻‍💻 Developer no programa Apple Developer Academy / UCB
-
-- 🌇 Natural de Brasília, com uma paixão por desenvolvimento de apps, resolução de problemas e em ajudar as pessoas a crescerem comigo!
-
-- 📚 Tenho experiência com desenvolvimento iOS usando Swift, UIKit, SwiftUI, CoreData, CloudKit, Firebase, SpriteKit entre outros.
-Usando padrões de projeto como MVC e MVVM para melhor estrutura do código, sempre tentando ser conciso não usando de over-engineering, e escrevendo códigos reutilizáveis usando arquiteturas limpas.
-Tenho ótimo conhecimento sobre versionamento como git e conhecimento sobre APIs
-
-- 💻 Para o meu futuro, espero estar trabalhando com um engenheiro de Software em uma boa empresa, com uma ótima cultura e um time diverso.
-
-- 🏔Eu gosto de passar meu tempo livre jogando e estudando. Eu gosto muito de jogar video games e acho que estudar é importante para manter a mente ativar e crescer como pessoa, por isso levo os estudos como um hobby.
-
-- 💪🏽 Desenvolvimento de Software para iOS, Boa Comunicação, Proativo, Confiável e Engajado
+- 👨🏻‍💻 Developer no PicPay e no programa Apple Developer Academy / UCB
 
 ---
 
