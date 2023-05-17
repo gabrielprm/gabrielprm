@@ -12,9 +12,9 @@
 
 - 👋🏽 Oi, me chamo Gabriel.
 
-- 🎓 Graduando em Ciência da Computação (Dez. 2023)
+- 🎓 Graduando em Ciência da Computação
 
-- 👨🏻‍💻 Developer no PicPay e no programa Apple Developer Academy / UCB
+- 👨🏻‍💻 iOS Developer no PicPay 
 
 ---
 
