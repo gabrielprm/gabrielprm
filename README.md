@@ -8,13 +8,9 @@
   
 ---
   
-### Sobre
+### About
 
-- 👋🏽 Oi, me chamo Gabriel.
-
-- 🎓 Graduando em Ciência da Computação
-
-- 👨🏻‍💻 iOS Developer no PicPay 
+- 👨🏻‍💻 iOS Engineer @ AmiGo with 5+ years of Experience
 
 ---
 
